@@ -1,5 +1,5 @@
 <h1>Hi I'm Ibrahim</h1>
-<h3>I'm a django backend web developer in Azerbaijan. You can view some of the projects I've developed on the <a href="https://github.com/ibrahimmuradov?tab=repositories" target="blank">Repositories</a> page in my profile.</h3>
+<h3>I'm a Django back-end web developer in Azerbaijan. You can view some of the projects I've developed on the <a href="https://github.com/ibrahimmuradov?tab=repositories" target="blank">Repositories</a> page in my profile.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimmuradov&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimmuradov" /> </p>
 
